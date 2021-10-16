@@ -1,4 +1,4 @@
-#Time O(N^2) time | O(1) Space
+#Time O(N^2) time | O(1) Space 
 
 def SelectionSort(array):
     current = 0
