@@ -1,4 +1,5 @@
 #Time O(N^2) time | O(1) Space
+
 def InsertionSort(array):
     for i in range(1, len(array)):
         j = i
