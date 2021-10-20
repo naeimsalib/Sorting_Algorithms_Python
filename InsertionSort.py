@@ -11,7 +11,7 @@ def InsertionSort(array):
 def swap(i, j, array):
     array[i], array[j] = array[j], array[i]
 
-array = [1,3,10,9,8,23,0,1,2]
+array = [1,3,10,9,8,23,0,1,2,4]
 print("Array Before Sorting" , array);
 InsertionSort(array)
 print("Array After Sorting " , array)
